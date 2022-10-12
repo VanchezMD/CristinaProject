@@ -37,4 +37,3 @@ python manage.py migrate
 python manage.py runserver
 ```
 
-![screen](https://github.com/WinterOdin/car-rental-with-Django/blob/master/screenshot/index.png)
