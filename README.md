@@ -28,7 +28,7 @@ BEU 50, da ma limitez la 5L de samagon
 		
 #
 
-## If you wanna install this project
+## Nu merge, ap suge o tita de fata mare si dai comanda de jos
 ```powershell
 virtualenv env
 env\Scripts\activate
