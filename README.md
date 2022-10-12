@@ -1,14 +1,32 @@
-# Car rental website 
 
-This is a car rental project made with Django | Chart.js | Jquery | Bootstrap 4 and stripe.js payments.
-I always loved one particular car manufacturer so I made this website that let's you rent most thrilling vehicles from this manufacturer portfolio
+# ZDAROVA ZAEBAL E SI CITESTE CA ITI FUT EBALA
 
-## Important info
-You need to create dummy account to "rent out" cars. You need to know that the hosting is free so the app is freezed when no one is physically on the website hence long loading times
+BEU 50, da ma limitez la 5L de samagon
 
-## How to check it out
-If you don't like to install random projects from github just [click here](https://car-rental-with-django.herokuapp.com/) but you need to know that the hosting is free so the app is freezed when no one is physically on the website hence long loading times.
+# Caroce dai  
+  
+    $poetry init .
 
+
+# piurma 
+  
+    $poetry shell
+
+
+# piurma 
+    
+    $pip install -r requirements.txt
+
+# dupa 
+    
+    $python manage.py migarate
+
+
+# dupa 
+    
+    $python manage.py runserver
+		
+#
 
 ## If you wanna install this project
 ```powershell
